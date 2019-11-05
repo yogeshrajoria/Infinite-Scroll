@@ -372,7 +372,7 @@ input[type="checkbox"] {
   font-weight: 700;
 }
 .github {
-  max-width: 33px;
+  width: 33px;
 }
 
 /* List table style block start. */
